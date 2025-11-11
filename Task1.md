@@ -249,7 +249,18 @@ pip install -r requirements.txt
 Ваша команда для запуска
 ```
 
-1. **Расписать первую документацию** для бизнес требования и поместить в корень репозетория github в разделе /Документация отметить имя первого файла "01-business-requirements.md" для создания первого документа использовать [шаблон:](https://github.com/k1rrrkvz/Practik_tasks_31is-23/blob/main/documentation/01-business-requirements.md) 
+
+# Работа с файлами .md
+
+Текст запросто можно конфигурировать с помощью специальных символов. Например, чтобы сделать текст жирным необходимо добавить по 2 ** между текстом:
+
+```
+**Пример жирного текста**
+```
+
+С помощбю файлов .md необходимо в разделе Вашего проекта /Документация реализовать следующие документы: 
+
+1. **Расписать первую документацию** для бизнес требования и поместить в корень репозетория github в разделе /Документация отметить имя первого файла "01-business-requirements.md" для создания первого документа использовать [шаблон:]([https://github.com/k1rrrkvz/Practik_tasks_31is-23/blob/main/documentation/01-business-requirements.md](https://github.com/TeacherDEVleader001/Practic_tasks_23-27_IS-d/blob/main/documentation/architecture-plan.md)) 
 2. **Оформить README.md файл с краткой документацией** указать в файле гиперссылки на остальные документации:
    - **Системный анализ** [проекта  по установленному шаблону](https://github.com/k1rrrkvz/Practik_tasks_31is-23/blob/main/documentation/02-system-analysis.md)
    - **Архитектурный план** [системы согласно шаблону](https://github.com/k1rrrkvz/Practik_tasks_31is-23/blob/main/documentation/03-architecture-plan.md)
