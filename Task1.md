@@ -99,8 +99,6 @@ print(greet())     # Привет из file1.py!
 **bot/parser/itproger_parser.py**
 ```
 
-
-
 #### Этап 2: Создание парсера
 ```py
 **/parser.py**
