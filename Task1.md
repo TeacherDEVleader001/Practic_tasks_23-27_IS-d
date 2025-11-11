@@ -249,7 +249,10 @@ pip install -r requirements.txt
 Ваша команда для запуска
 ```
 
-Расписать первую документацию для бизнес требования и поместить в корень репозетория github в разделе /documentation с пометкой: Полная документация проекта доступна в папке docs/: в списке отметить имя первого файла "01-business-requirements.md" для создания первого документа использовать [шаблон:](https://github.com/k1rrrkvz/Practik_tasks_31is-23/blob/main/documentation/01-business-requirements.md) 
+1. **Расписать первую документацию** для бизнес требования и поместить в корень репозетория github в разделе /Документация отметить имя первого файла "01-business-requirements.md" для создания первого документа использовать [шаблон:](https://github.com/k1rrrkvz/Practik_tasks_31is-23/blob/main/documentation/01-business-requirements.md) 
+2. **Оформить README.md файл с краткой документацией** указать в файле гиперссылки на остальные документации:
+   - **Системный анализ** [проекта  по установленному шаблону](https://github.com/k1rrrkvz/Practik_tasks_31is-23/blob/main/documentation/02-system-analysis.md)
+   - **Архитектурный план** [системы согласно шаблону](https://github.com/k1rrrkvz/Practik_tasks_31is-23/blob/main/documentation/03-architecture-plan.md)
 
 #### Указать Фамилию Имя группу
 #### После проделанных всех этапов пригласите преподавателя в свой репозиторий для проверки работы
