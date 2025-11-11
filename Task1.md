@@ -71,8 +71,6 @@ ITPROGER_URL = "https://itproger.com/news"
 
 #### Пример импорта данных с одного Python файла в другой:
 
-## 1. Импорт переменных и функций
-
 **file1.py** (откуда импортируем):
 ```python
 # Простые переменные
@@ -102,10 +100,10 @@ print(greet())     # Привет из file1.py!
 **bot/parser/itproger_parser.py**
 ```
 
-```py
+
 
 #### Этап 2: Создание парсера
-
+```py
 **/parser.py**
 import requests
 from bs4 import BeautifulSoup
